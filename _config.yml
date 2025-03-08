@@ -1,0 +1,20 @@
+# Site settings
+title: Huong Pham
+description: Portfolio
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings - Life's a rollercoaster, and if you're not screaming with joy, you're missing out on the ride!
+username: Huong Pham
+user_description: Mainly working in computer vision and machine learning, targeting applications in healthcare, geoscience.
+user_title: Research Scientist
+email: huong.n.pham01@gmail.com
+twitter_username: hpham
+github_username:  hogmeade
+gplus_username:  hpham
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
