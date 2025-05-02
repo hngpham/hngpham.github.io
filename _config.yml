@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# site_theme               : "default"
-remote_theme: academicpages/academicpages
+site_theme               : "default"
+# remote_theme: academicpages/academicpages
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
