@@ -10,5 +10,22 @@ paperurl: 'https://journals.bilpubgroup.com/index.php/jeis/article/view/6063'
 citation: 'Han, D., Pham, H., & Cheng, S. (2023). "Enhancing Semantic Segmentation through Reinforced Active Learning: Combating Dataset Imbalances and Bolstering Annotation Efficiency." <i>Journal of Electronic & Information Systems</i>, 5(2), 45–60. https://doi.org/10.30564/jeis.v5i2.6063'
 ---
 
+This paper presents a novel framework called **Reinforced Active Learning (RAL)** to enhance semantic segmentation performance under limited annotation resources and class imbalance.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+### Key Contributions
+
+- **Reinforcement Learning-Based Sample Selection**  
+  RAL employs a reinforcement learning agent to identify the most informative and diverse samples for annotation. The reward function is designed to improve segmentation performance while addressing class imbalance.
+
+- **Class Imbalance-Aware Sampling Strategy**  
+  Introduces a metric that accounts for class distribution, encouraging the selection of samples that include rare or underrepresented classes. This leads to better performance across all categories.
+
+- **Annotation Efficiency**  
+  RAL achieves high segmentation accuracy with fewer labeled samples, reducing the cost and time associated with manual annotation.
+
+- **Experimental Validation**  
+  The framework was tested on datasets like **Cityscapes** and **ACDC**, where it outperformed conventional active learning methods in both efficiency and accuracy.
+
+### Conclusion
+
+RAL effectively balances the need for performance and annotation efficiency, particularly in imbalanced datasets, making it a strong candidate for practical semantic segmentation applications.

@@ -10,4 +10,15 @@ paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/124
 citation: 'Pham, H., Le, D. B. T., Sadinski, M., Narayanan, R., Nacev, A., & Zheng, B. (2023). "Deep Learning-Based Rectum Segmentation on Low-field Prostate MRI to Assist Image-guided Biopsy." In <i>Proceedings of SPIE</i>, Vol. 12466, Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions, and Modeling. https://doi.org/10.1117/12.2654511'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study evaluates whether radiomics features from CT scans can predict 5-year survival in gastric cancer patients.
+
+- **Data**: 406 patient CT scans; 168 survived, 238 did not.
+- **Approach**: Tumor segmentation followed by extraction of 103 radiomics features using PyRadiomics.
+- **Two Methods**:
+  - **2D**: Features from a single CT slice.
+  - **Quasi-3D**: Weighted average features from multiple slices.
+- **Feature Reduction**: PCA reduced features to 11 (2D) and 7 (3D).
+- **Models Tested**: Logistic Regression (LRM), ANN, and SVM.
+- **Best Performance**: LRM with quasi-3D features (AUC = 0.72), but not significantly better than 2D (AUC = 0.70, p = 0.21).
+
+### Conclusion
