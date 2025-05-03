@@ -10,4 +10,12 @@ paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/120
 citation: 'Pham, H., Jones, M., Gai, T., Islam, W., Danala, G., & Zheng, B. (2022). "Identifying an Optimal Machine Learning Generated Image Marker to Predict Survival of Gastric Cancer Patients." In <i>Proceedings of SPIE</i>, Vol. 12033, Medical Imaging 2022: Computer-Aided Diagnosis. https://doi.org/10.1117/12.2611788'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a non-iterative cluster routing technique tailored for capsule networks, aiming to overcome the limitations of traditional iterative routing methods like dynamic routing or EM routing. 
+
+The proposed method:
+- Preserves the part–whole relationship fundamental to capsule networks.
+- Eliminates the need for repeated iterations, reducing computational complexity.
+- Demonstrates better generalization to novel viewpoints and poses in vision tasks.
+- Achieves competitive or superior performance on datasets such as MNIST and CIFAR-10, while using fewer parameters.
+
+The authors provide both theoretical analysis and practical implementation strategies, validating the approach through empirical experiments and architectural comparisons

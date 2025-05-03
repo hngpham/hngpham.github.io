@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning-Based Rectum Segmentation on Low-field Prostate MRI to Assist Image-guided Biopsy"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-02-28-deep-learning-rectum-segmentation
 excerpt: "This study presents a deep learning approach for automatic rectum segmentation in low-field (58–74 mT) prostate MRI scans. Utilizing a U-Net architecture, the model achieved a Dice similarity coefficient of 0.89, demonstrating its potential to enhance the accuracy and efficiency of image-guided prostate biopsies in low-resource settings."
 date: 2023-02-28
