@@ -6,16 +6,36 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm **Huong Pham**, a Ph.D. candidate in Electrical and Computer Engineering at the University of Oklahoma, where I conduct research at the intersection of medical imaging, computer vision, and large language models. My work focuses on designing advanced segmentation algorithms, retrieval-augmented generation systems, and foundational model evaluation frameworks—particularly in biomedical and environmental applications.
 
-As an engineer and researcher, I’m passionate about:
-- Scaling deep learning for multi-modal data (images, text, and video),
-- Building productivity tools powered by LLMs,
-- Translating research into real-world automation and assistive systems.
-One of the product I built is published at www.focuses.us. A news assistants that is built on FreshRSS open-source platform. It can help to extract important information for you so that can save you tons of time.
-Beyond my technical work, I have hobbies in automation, design integrated workflows using Home Assistant, ESP32s, and REST APIs to streamline daily routines—including smart parenting tools and real-time environmental monitors.
-I am also enjoying play badminton and hiking.
+Welcome! I'm **Huong Pham**, a Ph.D. candidate in Electrical and Computer Engineering at the University of Oklahoma. My research spans medical imaging, computer vision, and large language models (LLMs), with a focus on developing **novel deep learning architectures** and **robust evaluation frameworks**—particularly for biomedical and environmental applications.
 
-I'm actively seeking opportunities that bridge cutting-edge research and practical deployment in areas like **vision-language modeling**, **AI for healthcare**, and **intelligent automation**.
+As both an engineer and researcher, I’m passionate about:
 
-Let’s connect if you’re looking for someone who brings academic depth, startup-level execution, and a strong sense of purpose to AI-driven innovation.
+- Creating deep learning models that solve real-world problems  
+- Building AI-powered productivity tools that make life more efficient  
+- Translating research into systems that work beyond the lab  
+
+One of my personal projects is [**Focuses**](https://www.focuses.us)—an AI-driven news assistant built on the FreshRSS platform. It’s designed for people who want to stay informed without falling into the trap of endless scrolling. No ads, no clutter—just meaningful content curated to save you time and help you stay focused.  
+👉 [Check out the demonstration here](https://www.focuses.us).
+
+Outside of research, I enjoy building smart home workflows using Home Assistant, ESP32s, and REST APIs—**automating around the house** to make daily life smoother and more efficient. I also enjoy playing badminton and hiking whenever I get the chance.
+
+I'm currently seeking opportunities that combine **innovative model design** with **practical impact**, especially in **vision-language modeling**, **AI for healthcare**, and **intelligent automation**.
+
+**Let’s connect** if you're looking for someone with strong technical depth, practical engineering experience, and a commitment to building impactful AI applications.
+Welcome! I'm **Huong Pham**, a Ph.D. candidate in Electrical and Computer Engineering at the University of Oklahoma. My research spans medical imaging, computer vision, and large language models (LLMs), with a focus on developing **novel deep learning architectures** and **robust evaluation frameworks**—particularly for biomedical and environmental applications.
+
+As both an engineer and researcher, I’m passionate about:
+
+- Creating deep learning models that solve real-world problems  
+- Building AI-powered productivity tools that make life more efficient  
+- Translating research into systems that work beyond the lab  
+
+One of my personal projects is [**Focuses**](https://www.focuses.us)—an AI-driven news assistant built on the FreshRSS platform. It’s designed for people who want to stay informed without falling into the trap of endless scrolling. No ads, no clutter—just meaningful content curated to save you time and help you stay focused.
+👉 [View demo](https://www.focuses.us).
+
+Outside of research, I enjoy building smart home workflows using Home Assistant, ESP32s, and REST APIs—**automating around the house** to make daily life smoother and more efficient. I also enjoy playing badminton and hiking whenever I get the chance.
+
+I'm currently seeking opportunities that combine **innovative model design** with **practical impact**, especially in **vision-language modeling**, **AI for healthcare**, and **intelligent automation**.
+
+**Let’s connect** if you're looking for someone with strong technical depth, practical engineering experience, and a commitment to building impactful AI applications.
