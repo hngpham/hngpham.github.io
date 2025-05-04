@@ -27,9 +27,9 @@ Welcome! I'm **Huong Pham**, a Ph.D. candidate in Electrical and Computer Engine
 
 As both an engineer and researcher, I’m passionate about:
 
-- Creating deep learning models that solve real-world problems  
-- Building AI-powered productivity tools that make life more efficient  
-- Translating research into systems that work beyond the lab  
+- Creating deep learning models that solve real-world problems
+- Building AI-powered productivity tools that make life more efficient
+- Translating research into systems that work beyond the lab
 
 One of my personal projects is [**Focuses**](https://www.focuses.us)—an AI-driven news assistant built on the FreshRSS platform. It’s designed for people who want to stay informed without falling into the trap of endless scrolling. No ads, no clutter—just meaningful content curated to save you time and help you stay focused.
 👉 [View demo](https://www.focuses.us).
