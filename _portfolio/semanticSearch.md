@@ -1,11 +1,7 @@
 ---
 title: "Semantic Search"
-collection: applications
-type: "Application"
-permalink: /applications/semanticSearch
-venue: "University of Oklahoma, Department of Electrical and Computer Engineering"
-date: 2012-03-01
-location: "Norman, OK, USA"
+excerpt: "Semantic Search<br/><img src='/images/cytoscape.png'>"
+collection: portfolio
 ---
 
 Semantic search involves the concept of linking papers through their citations and cited papers, while highlighting common or popular ideas and showcasing the interconnectedness of these concepts.
