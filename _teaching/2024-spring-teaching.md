@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Norman, Oklahoma"
 ---
 
-Assisted students in programming and debugging embedded systems using the ARM Cortex-M3 based LPC1762 microcontroller.
+Teaching Assistant — Assisted students in programming and debugging embedded systems using the ARM Cortex-M3 based LPC1762 microcontroller.
