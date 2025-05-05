@@ -3,7 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: '/files/huongpham_resume.pdf'
 redirect_from:
   - /resume
 ---
