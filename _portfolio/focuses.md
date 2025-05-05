@@ -11,21 +11,21 @@ collection: portfolio
   <source src="/files/youtube_category-2025-05-04_13.49.31.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
-🎯 Individual Entry: Select an entry on the right, then click "Wisdom" or "Summarize" to process the body of the entry. If the entry contains a YouTube video, its transcript will be processed instead.🎯 Individual Entry: Select an entry on the right, then click "Wisdom" or "Summarize" to process the body of the entry. If the entry contains a YouTube video, its transcript will be processed instead.
+<br>
+🎯 Individual Entry: Select an entry on the right, then click "Wisdom" or "Summarize" to process the body of the entry. If the entry contains a YouTube video, its transcript will be processed instead.
 <video width="800" controls autoplay muted loop>
-  <source src="/files/individual_entry-2025-05-04_10.36.37" type="video/webm">
+  <source src="/files/individual_entry-2025-05-04_10.36.37.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
+<br>
 🎯 Feed Titles/Bodies: Select a category from the left panel, then press "C" to process the titles and content of multiple entries within that category. This allows you to read and group multiple feed items at once.
 <video width="800" controls autoplay muted loop>
-  <source src="/files/feed_titles_bodies-2025-05-04_13.55.47" type="video/webm">
+  <source src="/files/feed_titles_bodies-2025-05-04_13.55.47.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
+<br>
 🎯 Initial Setup:
 <video width="800" controls autoplay muted loop>
-  <source src="/files/initial_setup-2025-05-04_14.03.33" type="video/webm">
+  <source src="/files/initial_setup-2025-05-04_14.03.33.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
