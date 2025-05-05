@@ -1,6 +1,6 @@
 ---
 title: "Semantic Search"
-excerpt: "User interface<br/><img src='/images/semantic_search.png'>"
+excerpt: "Uncover hidden connections across scientific literature.<br/><img src='/images/semantic_search.png'>"
 collection: portfolio
 ---
 
