@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Huong Pham"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. candidate in Electrical and Computer Engineering at the University of Oklahoma. My research spans **medical imaging**, **computer vision**, and large language models (**LLMs**), with a focus on developing **novel deep learning architectures** and **robust evaluation frameworks**—particularly for biomedical and environmental applications.
+I'm a Ph.D. candidate in Electrical and Computer Engineering at the University of Oklahoma. My research spans **medical imaging**, **computer vision**, and large language models (**LLMs**), with a focus on developing **novel deep learning architectures** and **robust evaluation frameworks**—particularly for biomedical and environmental applications.
 
 As both an engineer and researcher, I’m passionate about:
 

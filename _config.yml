@@ -10,10 +10,10 @@
 locale                   : "en-US"
 site_theme               : "default"
 # remote_theme: academicpages/academicpages
-title                    : "Huong Pham / Research & Project"
+title                    : "Huong Pham / AI Research & Applications"
 title_separator          : "-"
 name                     : &name "Huong Pham"
-description              : &description "I’m a data scientist and PhD candidate at the University of Oklahoma, specializing in computer vision, machine learning, and large language model (LLM) applications. My research and industry experience focus on building scalable, intelligent systems—from advanced image segmentation models to end-to-end LLM-powered tools for scientific retrieval and automation. I’m passionate about translating deep technical work into products that solve meaningful problems. Currently seeking roles where I can contribute to cutting-edge AI development and applied research."
+description              : &description "I’m a applied scientist and PhD candidate at the University of Oklahoma, specializing in computer vision, machine learning, and large language model (LLM) applications. My research and industry experience focus on building scalable, intelligent systems—from advanced image segmentation models to end-to-end LLM-powered tools for scientific retrieval and automation. I’m passionate about translating deep technical work into products that solve meaningful problems. Currently seeking roles where I can contribute to cutting-edge AI development and applied research."
 # url                      : https://hngpham.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 url                      : "https://hngpham.focuses.us"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Huong Pham"
-  pronouns         : "he"
+  pronouns         : "He"
   bio              : "Applied Scientist"
   location         : "Oklahoma City, Oklahoma"
   employer         : "University of Oklahoma"
