@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="wordwrap"><a href="https://hngpham.focuses.us/files/huongpham_resume.pdf">Download CV</a>.</div>
 
 # Education
 * **Ph.D. Candidate in Machine Learning and Computer Vision**, University of Oklahoma, USA (Expected Jun 2025)  
