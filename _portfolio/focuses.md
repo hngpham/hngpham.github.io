@@ -1,6 +1,6 @@
 ---
 title: "Focuses Extension"
-excerpt: "AI-Powered Curation for the Modern Mind. <br/><img src='/images/focuses.png'>"
+excerpt: "Harnessing prompt engineering and chain-of-thought reasoning to turn information overload into structured insight. <br/><img src='/images/focuses.png' width='300'>"
 collection: portfolio
 ---
 
