@@ -8,7 +8,7 @@ collection: portfolio
 
 🎯 YouTube By Category: Choose a category and a feed from the left panel, click ⭐ to select video entry/entries on the right, then click the "C" button to process their transcripts.
 <video width="800" controls autoplay muted loop>
-  <source src="/files/youtube_category-2025-05-04_13.49.31.webm" type="video/webm">
+  <source src="/files/youtube_category-2025-07-23_00.09.39.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br>
