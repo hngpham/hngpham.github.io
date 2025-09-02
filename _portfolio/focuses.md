@@ -30,8 +30,8 @@ collection: portfolio
   Your browser does not support the video tag.
 </video>
 <br>
-🎯 Initial Setup:
+<!-- 🎯 Initial Setup:
 <video width="800" controls autoplay muted loop>
   <source src="/files/initial_setup-2025-05-04_14.03.33.webm" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
